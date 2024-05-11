@@ -1,2 +1,2 @@
 # TechAlpha_Task
-this repository contains 3 tasks 
+This repository contains 3 tasks 
